@@ -1,6 +1,6 @@
 # JavaScript Todo List
 
-A simple command-line Todo List application built with vanilla JavaScript.
+- A simple command-line Todo List application built with vanilla JavaScript.
 
 ## Features
 - ➕ Add new tasks
@@ -30,4 +30,4 @@ A simple command-line Todo List application built with vanilla JavaScript.
 
 ---
 
-This project was created as part of my JavaScript learning journey to strengthen my understanding of core programming concepts.
+- This project was created as part of my JavaScript learning journey to strengthen my understanding of core programming concepts.
